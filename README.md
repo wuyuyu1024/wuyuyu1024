@@ -86,9 +86,10 @@ Background:     Machine Learning · Visualization · Research Prototyping
 Engineering:    Backend Development · APIs · PostgreSQL · Data Modeling
 Current Focus:  Agentic AI · RAG · LLM Applications · Tool Use · AI Workflows
 ```
+<!--
 GitHub Stats
 <p align="center"> <img src="https://cdn.jsdelivr.net/gh/wuyuyu1024/GitHub-Stats@latest/generated/overview.svg#gh-dark-mode-only" /> <img src="https://cdn.jsdelivr.net/gh/wuyuyu1024/GitHub-Stats@latest/generated/languages.svg#gh-dark-mode-only" /> </p> <p align="center"> <img src="https://cdn.jsdelivr.net/gh/wuyuyu1024/GitHub-Stats@latest/generated/overview.svg#gh-light-mode-only" /> <img src="https://cdn.jsdelivr.net/gh/wuyuyu1024/GitHub-Stats@latest/generated/languages.svg#gh-light-mode-only" /> </p>
-
+-->
 ## Open To
 I’m interested in opportunities such as:
 
