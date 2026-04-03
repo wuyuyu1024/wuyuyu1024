@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Yu Wang 👋</h1>
 
 <p align="center">
-  Software Engineer · Machine Learning · Visualization · Moving Toward Agentic AI
+  Software Engineer · Machine Learning · Visualization · Agentic AI
 </p>
 
 <p align="center">
@@ -64,6 +64,10 @@ I’m currently focusing on:
 Built around retrieval-augmented generation, this project explores how external knowledge can be integrated into LLM workflows more effectively.
 It demonstrates my interest in knowledge-aware AI systems, context construction, and practical LLM application design.
 
+### shell_ai
+A lightweight local shell agent that converts natural-language requests into executable shell commands, shows reasoning, and asks for confirmation before running them.
+**Focus:** LLM tooling, CLI UX, practical agent design
+
 ### [browser-decision-map](https://github.com/wuyuyu1024/browser-decision-map)
 A decision-support system designed around structured interaction and guided reasoning.
 This project reflects how I think about workflow design: not just generating answers, but helping users navigate complex decisions through interactive systems.
@@ -95,13 +99,9 @@ I’m interested in opportunities such as:
 
 AI Engineer
 
-Agent Engineer
-
-LLM Engineer
-
-Applied AI Engineer
-
 Software Engineer roles with an AI focus
+
+Research Engineer
 
 I’m especially interested in teams building useful AI products, agent workflows, visual analytics tools, developer tools, or knowledge-intensive systems.
 
