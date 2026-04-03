@@ -64,7 +64,7 @@ I’m currently focusing on:
 Built around retrieval-augmented generation, this project explores how external knowledge can be integrated into LLM workflows more effectively.
 It demonstrates my interest in knowledge-aware AI systems, context construction, and practical LLM application design.
 
-### shell_ai
+### [shell_ai](https://github.com/wuyuyu1024/shell_ai)
 A lightweight local shell agent that converts natural-language requests into executable shell commands, shows reasoning, and asks for confirmation before running them.
 **Focus:** LLM tooling, CLI UX, practical agent design
 
