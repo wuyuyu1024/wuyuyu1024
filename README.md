@@ -45,7 +45,7 @@ In plain terms, LCIP supports human-in-the-loop, visually guided generation of h
 
 **Signals:** research software engineering, scientific visualization, human-in-the-loop generative ML, interactive tooling, reproducibility, GPU-enabled workflows.
 
-### [SDBM for Pyrite](https://github.com/wuyuyu1024/SDBM_for_Pyrite) · [paper](https://research-portal.uu.nl/en/publications/interpreting-mineral-deposit-genesis-classification-with-decision/)
+### [SDBM for Pyrite](https://github.com/wuyuyu1024/SDBM_for_Pyrite) · [paper](https://pubs.geoscienceworld.org/msa/ammin/article-abstract/109/12/2116/637125/Interpreting-mineral-deposit-genesis?redirectedFrom=fulltext)
 
 Reproducibility workflow for interpreting mineral-genesis classification with supervised decision maps on pyrite trace-element data. The project combines geoscience data, classifier evaluation, SSNP-based projection, inverse feature mapping, and notebook-generated manuscript figures.
 
