@@ -14,6 +14,7 @@
 
 <p align="center">
   <a href="http://yuwang-vis.github.io/">Website</a> ·
+  <a href="https://scholar.google.com/citations?user=6TysxLYAAAAJ&hl=en">Google Scholar</a> ·
   <a href="https://github.com/wuyuyu1024?tab=repositories">Repositories</a> ·
   <a href="https://github.com/wuyuyu1024">GitHub</a>
 </p>
@@ -28,17 +29,17 @@ I am especially interested in research software engineering roles where software
 
 ## Research Credentials
 
-- Ph.D. in Computer Science, Utrecht University: enhanced decision maps for exploring classification models.
+- [Ph.D. in Computer Science](https://doi.org/10.33540/3023), Utrecht University: enhanced decision maps for exploring classification models.
 - Ph.D. in Geology, China University of Geosciences, Beijing: machine learning and visualization for mineral-genesis classification.
-- Publications in venues and journals including Computers & Graphics, American Mineralogist, IVAPP/VISIGRAPP, Algorithms, SN Computer Science, and JGR: Solid Earth.
+- Publications in venues and journals including [Computers & Graphics](https://doi.org/10.1016/j.cag.2025.104230), [American Mineralogist](https://research-portal.uu.nl/en/publications/interpreting-mineral-deposit-genesis-classification-with-decision/), IVAPP/VISIGRAPP, Algorithms, SN Computer Science, and JGR: Solid Earth.
 - Best Student Paper Award at IVAPP/VISIGRAPP 2024.
-- Open-source contribution to SHAP.
+- Open-source contribution to [SHAP](https://github.com/shap/shap/pull/2302).
 
 ## Selected Research Software
 
 ### [LCIP](https://github.com/wuyuyu1024/lcip)
 
-Loss-Controlled Inverse Projection of High-Dimensional Data. This is my strongest current research-software project: a paper-linked Python implementation with a Qt GUI, command-line entry points, tests, CUDA/PyTorch-based demos, reproducibility scripts, and documented workflows for inverse projection experiments.
+[Loss-Controlled Inverse Projection of High-Dimensional Data](https://doi.org/10.48550/arXiv.2602.11141). This is my strongest current research-software project: a paper-linked Python implementation with a Qt GUI, command-line entry points, tests, CUDA/PyTorch-based demos, reproducibility scripts, and documented workflows for inverse projection experiments.
 
 In plain terms, LCIP supports human-in-the-loop, visually guided generation of high-dimensional data from a 2D embedding. It connects visualization, generative modelling, and interactive model steering.
 
