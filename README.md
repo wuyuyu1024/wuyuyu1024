@@ -57,7 +57,7 @@ Implementation accompanying research on fast and accurate decision maps for expl
 
 **Signals:** explainable AI, model inspection, visual analytics, research-method implementation.
 
-### [InverseProjections](https://github.com/wuyuyu1024/InverseProjections) · [PyPI](https://pypi.org/project/inverse-projections/) · [MDSinv paper](https://doi.org/10.2312/eurova.20241112)
+### [InverseProjections](https://github.com/wuyuyu1024/InverseProjections) · [PyPI](https://pypi.org/project/inverse-projections/) 
 
 A Python package implementing inverse projection techniques such as NNinv, iLAMP, RBF inverse mapping, and MDS multilateration with a scikit-learn-style API.
 
