@@ -1,27 +1,15 @@
-
 <!--
-**wuyuyu1024/wuyuyu1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**wuyuyu1024/wuyuyu1024** is a special repository because its README.md appears on the GitHub profile.
 -->
-<h1 align="center">Hi, I'm Yu Wang 👋</h1>
+
+<h1 align="center">Yu Wang</h1>
 
 <p align="center">
-  Software Engineer · Machine Learning · Visualization · Agentic AI
+  Research Software Engineer · Machine Learning · Visualization · Agentic AI
 </p>
 
 <p align="center">
-  I have a background in Machine Learning, Visualization, and research-oriented development, and over the past half year I’ve been working as a software engineer / developer.
-  I’m currently moving toward AI Engineer and Agent Engineer roles, with a growing focus on Agentic AI, LLM applications, and practical AI systems.
+  I build research software and AI systems that make complex models, high-dimensional data, and scientific workflows easier to inspect, reproduce, and use.
 </p>
 
 <p align="center">
@@ -32,82 +20,74 @@ Here are some ideas to get you started:
 
 ---
 
-## About Me
+## About
 
-- Based in Utrecht, Netherlands
-- Background in Machine Learning, Visualization, and research-oriented development
-- Working as a software engineer / developer over the past half year
-- Interested in Agentic AI, LLM applications, backend systems, visual analytics, and intelligent workflows
-- I enjoy building systems that connect models, tools, structured data, and user interaction
+I am based in Utrecht, Netherlands, with a background in machine learning, visualization, and research-oriented software development. My work sits at the intersection of scientific computing, visual analytics, and practical AI systems: implementing methods from papers, building usable prototypes, and turning research workflows into software that other people can run and inspect.
 
-## What I Bring
+I am especially interested in research software engineering roles where software quality, reproducibility, and collaboration across scientific domains matter. Current focus areas include explainable machine learning, inverse projection, decision maps, retrieval-augmented generation, tool-using agents, and AI-assisted workflows.
 
-- A foundation in Machine Learning
-- Experience with visualization and analytical thinking
-- Hands-on software engineering experience
-- Backend development experience with APIs, databases, and data-oriented systems
-- A research mindset combined with practical implementation
+## Selected Research Software
 
-## Current Direction
+### [LCIP](https://github.com/wuyuyu1024/lcip)
 
-I’m currently focusing on:
-- Agentic AI
-- LLM application engineering
-- Retrieval-augmented generation
-- Tool-using and workflow-oriented AI systems
-- Backend architecture for AI products
-- Visual and interactive systems for complex information
+Loss-Controlled Inverse Projection of High-Dimensional Data. This is my strongest current research-software project: a paper-linked Python implementation with a Qt GUI, command-line entry points, tests, CUDA/PyTorch-based demos, reproducibility scripts, and documented workflows for inverse projection experiments.
 
-## Selected Projects
+**Signals:** research software engineering, scientific visualization, interactive tooling, reproducibility, GPU-enabled ML workflows.
 
-### [RAG_thesis](https://github.com/wuyuyu1024/RAG_thesis)
-Built around retrieval-augmented generation, this project explores how external knowledge can be integrated into LLM workflows more effectively.
-It demonstrates my interest in knowledge-aware AI systems, context construction, and practical LLM application design.
+### [SDBM for Pyrite](https://github.com/wuyuyu1024/SDBM_for_Pyrite)
 
-### [shell_ai](https://github.com/wuyuyu1024/shell_ai)
-A lightweight local shell agent that converts natural-language requests into executable shell commands, shows reasoning, and asks for confirmation before running them.
-**Focus:** LLM tooling, CLI UX, practical agent design
+Reproducibility workflow for interpreting mineral-genesis classification with supervised decision maps on pyrite trace-element data. The project combines geoscience data, classifier evaluation, SSNP-based projection, inverse feature mapping, and notebook-generated manuscript figures.
 
-### [browser-decision-map](https://github.com/wuyuyu1024/browser-decision-map)
-A decision-support system designed around structured interaction and guided reasoning.
-This project reflects how I think about workflow design: not just generating answers, but helping users navigate complex decisions through interactive systems.
+**Signals:** Earth-science-facing ML, explainable classification, visual analytics, reproducible computational research.
 
-### [lcip](https://github.com/wuyuyu1024/lcip)
-A Python project that highlights my hands-on engineering style: experimentation, clean structure, and usable tooling.
-It represents my interest in building practical systems that are technically grounded and easy to extend.
+### [Generalized FastDBM](https://github.com/wuyuyu1024/generalized_fastDBM)
+
+Implementation accompanying research on fast and accurate decision maps for explaining classification models.
+
+**Signals:** explainable AI, model inspection, visual analytics, research-method implementation.
 
 ### [InverseProjections](https://github.com/wuyuyu1024/InverseProjections)
-A visualization-focused project centered on analytical exploration and interactive understanding.
-It shows my background in visualization and my interest in making complex systems more interpretable and user-facing.
 
----
+A Python package implementing inverse projection techniques such as NNinv, iLAMP, RBF inverse mapping, and multilateration with a scikit-learn-style API.
+
+**Signals:** reusable research code, dimensionality reduction, interpretable high-dimensional data analysis.
+
+## Agentic AI And Tools
+
+### [shell_ai](https://github.com/wuyuyu1024/shell_ai)
+
+A lightweight local shell agent that turns natural-language requests into executable shell commands, explains the proposed command, and asks for confirmation before running it.
+
+**Signals:** LLM tooling, CLI user experience, safe tool use, practical agent design.
+
+### [RAG_thesis](https://github.com/wuyuyu1024/RAG_thesis)
+
+Exploration of retrieval-augmented generation workflows and knowledge-aware LLM application design.
+
+**Signals:** retrieval, context construction, LLM application engineering.
+
+### [browser-decision-map](https://github.com/wuyuyu1024/browser-decision-map)
+
+A browser-based interactive decision-map demo using TensorFlow.js and D3 to inspect MNIST projections, inverse projections, decision regions, and observation windows directly in the browser.
+
+**Signals:** interactive visualization, browser ML, scientific demos, user-facing research prototypes.
 
 ## Technical Profile
 
 ```text
-Languages:      Python · JavaScript · SQL
-Background:     Machine Learning · Visualization · Research Prototyping
-Engineering:    Backend Development · APIs · PostgreSQL · Data Modeling
-Current Focus:  Agentic AI · RAG · LLM Applications · Tool Use · AI Workflows
+Languages:        Python · JavaScript · SQL
+Research areas:   Machine Learning · Visualization · Visual Analytics · Research Prototyping
+RSE strengths:    Reproducibility · Scientific Workflows · Documentation · Interactive Tools
+AI systems:       Agentic AI · RAG · LLM Applications · Tool Use · Workflow Automation
+Engineering:      Backend APIs · Data Modeling · PostgreSQL · Browser-based Demos
 ```
-<!--
-GitHub Stats
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/wuyuyu1024/GitHub-Stats@latest/generated/overview.svg#gh-dark-mode-only" /> <img src="https://cdn.jsdelivr.net/gh/wuyuyu1024/GitHub-Stats@latest/generated/languages.svg#gh-dark-mode-only" /> </p> <p align="center"> <img src="https://cdn.jsdelivr.net/gh/wuyuyu1024/GitHub-Stats@latest/generated/overview.svg#gh-light-mode-only" /> <img src="https://cdn.jsdelivr.net/gh/wuyuyu1024/GitHub-Stats@latest/generated/languages.svg#gh-light-mode-only" /> </p>
--->
+
 ## Open To
-I’m interested in opportunities such as:
 
-AI Engineer
-
-Software Engineer roles with an AI focus
-
-Research Engineer
-
-I’m especially interested in teams building useful AI products, agent workflows, visual analytics tools, developer tools, or knowledge-intensive systems.
+I am interested in research software engineering and AI engineering roles, especially in teams that build software for scientific research, environmental and Earth-science applications, visual analytics, explainable AI, or knowledge-intensive workflows.
 
 ## Contact
+
 Website: http://yuwang-vis.github.io/
 
 GitHub: https://github.com/wuyuyu1024
-
-<!-- <p align="center"> <i>From Machine Learning and Visualization to practical AI systems and Agentic workflows.</i> </p> -->
