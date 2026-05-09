@@ -22,9 +22,9 @@
 
 ## About
 
-I am based in Utrecht, Netherlands, with a recent Ph.D. in Computer Science from Utrecht University and a Ph.D. in Geology from China University of Geosciences, Beijing. My work connects machine learning, visual analytics, geoscience, and research-oriented software development: implementing methods from papers, building usable prototypes, and turning research workflows into software that other people can run and inspect.
+I am based in Utrecht, Netherlands, with a Ph.D. in Computer Science from Utrecht University and a Ph.D. in Geology from China University of Geosciences, Beijing. My work connects machine learning, visual analytics, geoscience, and research-oriented software development: implementing methods from papers, building usable prototypes, and turning research workflows into software that other people can run and inspect.
 
-I am especially interested in research software engineering roles where software quality, reproducibility, and collaboration across scientific domains matter. Current focus areas include explainable machine learning, human-in-the-loop data generation, inverse projection, decision maps, retrieval-augmented generation, tool-using agents, and AI-assisted workflows.
+I am especially interested in research software engineering roles where software quality, reproducibility, and collaboration across scientific domains matter. Recently, I have also been focusing on agentic AI, including retrieval-augmented generation, tool-using agents, and AI-assisted workflows. My broader research interests include explainable machine learning, human-in-the-loop data generation, inverse projection, and decision maps.
 
 ## Research Credentials
 
@@ -95,7 +95,7 @@ Engineering:      FastAPI · SQLAlchemy · Pydantic · pytest · PostgreSQL · T
 
 ## Open To
 
-I am interested in research software engineering and AI engineering roles, especially in teams that build software for scientific research, environmental and Earth-science applications, visual analytics, explainable AI, or knowledge-intensive workflows.
+I am interested in research software engineering, AI engineering, and data science roles, especially in teams that build software for scientific research, environmental and Earth-science applications, visual analytics, explainable AI, agentic AI, or knowledge-intensive workflows.
 
 ## Contact
 
