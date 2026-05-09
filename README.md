@@ -39,7 +39,7 @@ I am especially interested in research software engineering roles where software
 
 ### [LCIP](https://github.com/wuyuyu1024/lcip) · [paper](https://doi.org/10.48550/arXiv.2602.11141) · [demo](https://www.youtube.com/watch?v=9h5rFLiETS0)
 
-[Loss-Controlled Inverse Projection of High-Dimensional Data](https://doi.org/10.48550/arXiv.2602.11141). This is my strongest current research-software project: a paper-linked Python implementation with a Qt GUI, command-line entry points, tests, CUDA/PyTorch-based demos, reproducibility scripts, and documented workflows for inverse projection experiments.
+_Loss-Controlled Inverse Projection of High-Dimensional Data_. This is my strongest current research-software project: a paper-linked Python implementation with a Qt GUI, command-line entry points, tests, CUDA/PyTorch-based demos, reproducibility scripts, and documented workflows for inverse projection experiments.
 
 In plain terms, LCIP supports human-in-the-loop, visually guided generation of high-dimensional data from a 2D embedding. It connects visualization, generative modelling, and interactive model steering.
 
