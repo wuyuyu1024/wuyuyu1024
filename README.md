@@ -31,7 +31,7 @@ I am especially interested in research software engineering roles where software
 
 - [Ph.D. in Computer Science](https://doi.org/10.33540/3023), Utrecht University: enhanced decision maps for exploring classification models.
 - Ph.D. in Geology, China University of Geosciences, Beijing: machine learning and visualization for mineral-genesis classification.
-- Publications in venues and journals including [Computers & Graphics](https://doi.org/10.1016/j.cag.2025.104230), [American Mineralogist](https://research-portal.uu.nl/en/publications/interpreting-mineral-deposit-genesis-classification-with-decision/), [IVAPP/VISIGRAPP](https://doi.org/10.5220/0012352300003660), Algorithms, [SN Computer Science](https://doi.org/10.1007/s42979-024-02604-y), and [JGR: Solid Earth](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JB021925).
+- Publications in venues and journals including [Computers & Graphics](https://doi.org/10.1016/j.cag.2025.104230), [American Mineralogist](https://research-portal.uu.nl/en/publications/interpreting-mineral-deposit-genesis-classification-with-decision/), [IVAPP/VISIGRAPP](https://doi.org/10.5220/0012352300003660), [Algorithms](https://www.mdpi.com/1999-4893/16/9/438), [SN Computer Science](https://doi.org/10.1007/s42979-024-02604-y), and [JGR: Solid Earth](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JB021925).
 - Best Student Paper Award at IVAPP/VISIGRAPP 2024.
 - Open-source contribution to [SHAP](https://github.com/shap/shap/pull/2302).
 
