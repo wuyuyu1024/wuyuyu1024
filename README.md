@@ -5,11 +5,11 @@
 <h1 align="center">Yu Wang</h1>
 
 <p align="center">
-  Research Software Engineer · Machine Learning · Visualization · Agentic AI
+  Research Software Engineer · Explainable ML · Scientific Visualization · Agentic AI
 </p>
 
 <p align="center">
-  I build research software and AI systems that make complex models, high-dimensional data, and scientific workflows easier to inspect, reproduce, and use.
+  Dual Ph.D. background in Computer Science and Geology. I build research software that makes complex models, high-dimensional data, and scientific workflows easier to inspect, reproduce, and use.
 </p>
 
 <p align="center">
@@ -22,9 +22,17 @@
 
 ## About
 
-I am based in Utrecht, Netherlands, with a background in machine learning, visualization, and research-oriented software development. My work sits at the intersection of scientific computing, visual analytics, and practical AI systems: implementing methods from papers, building usable prototypes, and turning research workflows into software that other people can run and inspect.
+I am based in Utrecht, Netherlands, with a recent Ph.D. in Computer Science from Utrecht University and a Ph.D. in Geology from China University of Geosciences, Beijing. My work connects machine learning, visual analytics, geoscience, and research-oriented software development: implementing methods from papers, building usable prototypes, and turning research workflows into software that other people can run and inspect.
 
-I am especially interested in research software engineering roles where software quality, reproducibility, and collaboration across scientific domains matter. Current focus areas include explainable machine learning, inverse projection, decision maps, retrieval-augmented generation, tool-using agents, and AI-assisted workflows.
+I am especially interested in research software engineering roles where software quality, reproducibility, and collaboration across scientific domains matter. Current focus areas include explainable machine learning, human-in-the-loop data generation, inverse projection, decision maps, retrieval-augmented generation, tool-using agents, and AI-assisted workflows.
+
+## Research Credentials
+
+- Ph.D. in Computer Science, Utrecht University: enhanced decision maps for exploring classification models.
+- Ph.D. in Geology, China University of Geosciences, Beijing: machine learning and visualization for mineral-genesis classification.
+- Publications in venues and journals including Computers & Graphics, American Mineralogist, IVAPP/VISIGRAPP, Algorithms, SN Computer Science, and JGR: Solid Earth.
+- Best Student Paper Award at IVAPP/VISIGRAPP 2024.
+- Open-source contribution to SHAP.
 
 ## Selected Research Software
 
@@ -32,13 +40,15 @@ I am especially interested in research software engineering roles where software
 
 Loss-Controlled Inverse Projection of High-Dimensional Data. This is my strongest current research-software project: a paper-linked Python implementation with a Qt GUI, command-line entry points, tests, CUDA/PyTorch-based demos, reproducibility scripts, and documented workflows for inverse projection experiments.
 
-**Signals:** research software engineering, scientific visualization, interactive tooling, reproducibility, GPU-enabled ML workflows.
+In plain terms, LCIP supports human-in-the-loop, visually guided generation of high-dimensional data from a 2D embedding. It connects visualization, generative modelling, and interactive model steering.
+
+**Signals:** research software engineering, scientific visualization, human-in-the-loop generative ML, interactive tooling, reproducibility, GPU-enabled workflows.
 
 ### [SDBM for Pyrite](https://github.com/wuyuyu1024/SDBM_for_Pyrite)
 
 Reproducibility workflow for interpreting mineral-genesis classification with supervised decision maps on pyrite trace-element data. The project combines geoscience data, classifier evaluation, SSNP-based projection, inverse feature mapping, and notebook-generated manuscript figures.
 
-**Signals:** Earth-science-facing ML, explainable classification, visual analytics, reproducible computational research.
+**Signals:** Earth-science-facing ML, geochemistry, explainable classification, visual analytics, reproducible computational research.
 
 ### [Generalized FastDBM](https://github.com/wuyuyu1024/generalized_fastDBM)
 
@@ -76,10 +86,11 @@ A browser-based interactive decision-map demo using TensorFlow.js and D3 to insp
 
 ```text
 Languages:        Python · JavaScript · SQL
-Research areas:   Machine Learning · Visualization · Visual Analytics · Research Prototyping
+ML/data:          PyTorch · TensorFlow · scikit-learn · pandas · NumPy · XGBoost
+Visualization:    Matplotlib · seaborn · D3.js · PySide/PyQt · pyqtgraph · vispy
 RSE strengths:    Reproducibility · Scientific Workflows · Documentation · Interactive Tools
 AI systems:       Agentic AI · RAG · LLM Applications · Tool Use · Workflow Automation
-Engineering:      Backend APIs · Data Modeling · PostgreSQL · Browser-based Demos
+Engineering:      FastAPI · SQLAlchemy · Pydantic · pytest · PostgreSQL · TensorFlow.js
 ```
 
 ## Open To
