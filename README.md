@@ -37,7 +37,7 @@ I am especially interested in research software engineering roles where software
 
 ## Selected Research Software
 
-### [LCIP](https://github.com/wuyuyu1024/lcip)
+### [LCIP](https://github.com/wuyuyu1024/lcip) · [paper](https://doi.org/10.48550/arXiv.2602.11141) · [demo](https://www.youtube.com/watch?v=9h5rFLiETS0)
 
 [Loss-Controlled Inverse Projection of High-Dimensional Data](https://doi.org/10.48550/arXiv.2602.11141). This is my strongest current research-software project: a paper-linked Python implementation with a Qt GUI, command-line entry points, tests, CUDA/PyTorch-based demos, reproducibility scripts, and documented workflows for inverse projection experiments.
 
@@ -45,21 +45,21 @@ In plain terms, LCIP supports human-in-the-loop, visually guided generation of h
 
 **Signals:** research software engineering, scientific visualization, human-in-the-loop generative ML, interactive tooling, reproducibility, GPU-enabled workflows.
 
-### [SDBM for Pyrite](https://github.com/wuyuyu1024/SDBM_for_Pyrite)
+### [SDBM for Pyrite](https://github.com/wuyuyu1024/SDBM_for_Pyrite) · [paper](https://research-portal.uu.nl/en/publications/interpreting-mineral-deposit-genesis-classification-with-decision/)
 
 Reproducibility workflow for interpreting mineral-genesis classification with supervised decision maps on pyrite trace-element data. The project combines geoscience data, classifier evaluation, SSNP-based projection, inverse feature mapping, and notebook-generated manuscript figures.
 
 **Signals:** Earth-science-facing ML, geochemistry, explainable classification, visual analytics, reproducible computational research.
 
-### [Generalized FastDBM](https://github.com/wuyuyu1024/generalized_fastDBM)
+### [Generalized FastDBM](https://github.com/wuyuyu1024/generalized_fastDBM) · [paper](https://doi.org/10.1016/j.cag.2025.104230)
 
 Implementation accompanying research on fast and accurate decision maps for explaining classification models.
 
 **Signals:** explainable AI, model inspection, visual analytics, research-method implementation.
 
-### [InverseProjections](https://github.com/wuyuyu1024/InverseProjections)
+### [InverseProjections](https://github.com/wuyuyu1024/InverseProjections) · [PyPI](https://pypi.org/project/inverse-projections/) · [MDSinv paper](https://doi.org/10.2312/eurova.20241112)
 
-A Python package implementing inverse projection techniques such as NNinv, iLAMP, RBF inverse mapping, and multilateration with a scikit-learn-style API.
+A Python package implementing inverse projection techniques such as NNinv, iLAMP, RBF inverse mapping, and MDS multilateration with a scikit-learn-style API.
 
 **Signals:** reusable research code, dimensionality reduction, interpretable high-dimensional data analysis.
 
