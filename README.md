@@ -35,6 +35,15 @@ I am especially interested in research software engineering roles where software
 - Best Student Paper Award at IVAPP/VISIGRAPP 2024.
 - Open-source contribution to [SHAP](https://github.com/shap/shap/pull/2302).
 
+## Start Here
+
+For research software engineering review, the most representative repositories are:
+
+- [LCIP](https://github.com/wuyuyu1024/lcip): paper-linked Python research software with a Qt GUI, command-line entry points, tests, CUDA/PyTorch demos, and reproducibility scripts.
+- [SDBM for Pyrite](https://github.com/wuyuyu1024/SDBM_for_Pyrite): Earth-science machine-learning workflow for interpretable mineral-genesis classification using pyrite trace-element data.
+- [InverseProjections](https://github.com/wuyuyu1024/InverseProjections): reusable Python package for inverse projection methods with a scikit-learn-style API.
+- [Generalized FastDBM](https://github.com/yuwang-vis/generalized_fastDBM): implementation accompanying a Computers & Graphics paper on fast decision maps for explaining classification models.
+
 ## Selected Research Software
 
 ### [LCIP](https://github.com/wuyuyu1024/lcip) · [paper](https://doi.org/10.48550/arXiv.2602.11141) · [demo](https://www.youtube.com/watch?v=9h5rFLiETS0)
@@ -51,7 +60,7 @@ Reproducibility workflow for interpreting mineral-genesis classification with su
 
 **Signals:** Earth-science-facing ML, geochemistry, explainable classification, visual analytics, reproducible computational research.
 
-### [Generalized FastDBM](https://github.com/wuyuyu1024/generalized_fastDBM) · [paper](https://doi.org/10.1016/j.cag.2025.104230)
+### [Generalized FastDBM](https://github.com/yuwang-vis/generalized_fastDBM) · [paper](https://doi.org/10.1016/j.cag.2025.104230)
 
 Implementation accompanying research on fast and accurate decision maps for explaining classification models.
 
