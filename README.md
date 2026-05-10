@@ -37,12 +37,11 @@ I am especially interested in research software engineering roles where software
 
 ## Start Here
 
-For research software engineering review, the most representative repositories are:
+For a quick review of my research software work:
 
-- [LCIP](https://github.com/wuyuyu1024/lcip): paper-linked Python research software with a Qt GUI, command-line entry points, tests, CUDA/PyTorch demos, and reproducibility scripts.
-- [SDBM for Pyrite](https://github.com/wuyuyu1024/SDBM_for_Pyrite): Earth-science machine-learning workflow for interpretable mineral-genesis classification using pyrite trace-element data.
-- [InverseProjections](https://github.com/wuyuyu1024/InverseProjections): reusable Python package for inverse projection methods with a scikit-learn-style API.
-- [Generalized FastDBM](https://github.com/wuyuyu1024/generalized_fastDBM): implementation accompanying a Computers & Graphics paper on fast decision maps for explaining classification models.
+- **Best RSE example:** [LCIP](https://github.com/wuyuyu1024/lcip) shows tested Python research software, GUI tooling, CUDA/PyTorch workflows, and reproducibility scripts.
+- **Best Earth-science example:** [SDBM for Pyrite](https://github.com/wuyuyu1024/SDBM_for_Pyrite) is a reproducible geoscience ML workflow linked to an *American Mineralogist* paper.
+- **Best reusable-package example:** [InverseProjections](https://github.com/wuyuyu1024/InverseProjections) exposes inverse-projection methods through a scikit-learn-style API.
 
 ## Selected Research Software
 
