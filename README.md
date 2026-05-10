@@ -5,7 +5,7 @@
 <h1 align="center">Yu Wang</h1>
 
 <p align="center">
-  Research Software Engineer · Explainable ML · Scientific Visualization · Agentic AI
+  Software Engineer · AI Engineer · Explainable ML · Visual Analytics · Agentic AI
 </p>
 
 <p align="center">
